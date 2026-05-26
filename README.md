@@ -27,8 +27,7 @@ COURSE_WORK/
 │   └── eda_and_cleaning.ipynb            # Разведочный анализ данных, очистка и инжиниринг признаков
 │
 ├── reports/                              # Отчеты по работе моделей
-│   ├── report.pdf                        # В формате pdf
-│   └── report.odt                        # В формате LibreOffice документа
+│   └── report.pdf                        # В формате pdf
 │
 ├── .gitignore                            # Исключение системных и временных файлов
 ├── README.md                             # Документация проекта
